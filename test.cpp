@@ -12,9 +12,9 @@ void setup()
 }
 
 namespace result {
-    float first = (-b + sqrt(delta))/2*a;
-    float second = (-b - sqrt(delta))/2*a;
-    float same = (-b)/2*a;
+    double first = (-b + sqrt(delta))/2*a;
+    double second = (-b - sqrt(delta))/2*a;
+    double same = (-b)/2*a;
 };
 
 int main()

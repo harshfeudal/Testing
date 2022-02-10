@@ -6,17 +6,17 @@
 
 namespace harshfeudal
 {
-    std::string larger(cout << "It has 2 results!" << std::endl);
-    std::string smaller(cout << "It has no results!" << std::endl);
-    std::string zero(cout << "It has 1 result!" << std::endl);
+    std::string larger("It has 2 results!");
+    std::string smaller("It has no results!");
+    std::string zero("It has 1 result!");
 }
 
 namespace output
 {
     //Grammar lol
-    std::string singleResult(cout << "The result is: " );
-    std::string doubleResults(cout << "The results are: " );
-    std::string connect(cout << " and " );
+    std::string singleResult("The result is: ");
+    std::string doubleResults("The results are: ");
+    std::string connect(" and ");
 }
 
 #endif // FUNCTION_H
