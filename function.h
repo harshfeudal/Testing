@@ -7,7 +7,7 @@
 namespace harshfeudal
 {
     std::string larger("It has 2 results!");
-    std::string smaller("It has no results!");
+    std::string smaller("It has no result!");
     std::string zero("It has 1 result!");
 }
 
