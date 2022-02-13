@@ -1,4 +1,6 @@
 #include <iostream>
+#include <cmath>
+
 #include "function.h"
 
 float a, b, c;

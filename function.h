@@ -2,7 +2,6 @@
 #define FUNCTION_H
 
 #include <iostream>
-#include <cmath>
 
 namespace harshfeudal
 {
